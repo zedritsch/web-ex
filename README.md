@@ -1,1 +1,2 @@
 # Web-Ex
+[`Web-Ex`](https://github.com/Zedritsch/Web-Ex/releases) is a small Tool, created to shrink the Size of `.html`, `.css` and `.js` Files. While running it, it will copy all Files from the `dist` Directory to the `public` Directory. Then all unnecessary Characters (New Lines, Spaces) and Comments will be removed.
