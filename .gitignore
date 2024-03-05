@@ -1,5 +1,6 @@
-# IDE
+# Directories
 .vscode
+bin
 
-# Build
+# File Types
 *.exe
